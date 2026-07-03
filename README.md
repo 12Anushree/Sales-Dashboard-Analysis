@@ -36,7 +36,11 @@ An **enterprise-grade Sales Dashboard** that transforms 10,000+ transactions int
 
 <br clear="right"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img width="1344" height="513" alt="1" src="https://github.com/user-attachments/assets/0e23dfa3-30a0-4131-8b10-702a1c0e485a" />
+<img width="1347" height="297" alt="2" src="https://github.com/user-attachments/assets/9c28eb9e-9bba-4680-9a86-158c1773b740" />
+<img width="1345" height="257" alt="3" src="https://github.com/user-attachments/assets/bac24200-b19c-43e9-8306-8a1f2663499a" />
+<img width="1347" height="562" alt="4" src="https://github.com/user-attachments/assets/c4f1f51e-829d-40a9-b436-d250462ec90b" />
+
 
 ## 🌟 Key Features
 
