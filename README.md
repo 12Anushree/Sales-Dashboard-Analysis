@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Sales%20Dashboard%20Analysis&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Turning%20Raw%20Sales%20Data%20Into%20Business%20Intelligence&descSize=18&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,8,15&height=250&section=header&text=Sales%20Dashboard%20Analysis&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=25&desc=Turning%20Raw%20Sales%20Data%20Into%20Business%20Intelligence&descSize=18&descAlignY=55"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=📈+Revenue+Trends+%26+Forecasting;🏆+Top+Product+Analysis;🌍+Regional+Performance+Insights;💰+Profit+Margin+Deep+Dive"/>
@@ -72,19 +72,8 @@ An **enterprise-grade Sales Dashboard** that transforms 10,000+ transactions int
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 📬 Contact
-Anushree Saha
-
-🤝 Contributing
-Contributions make the open-source community amazing! 🎉
-
-LinkedIn: - www.linkedin.com/in/anushree-saha-4bb3a4368
-- Email:  riyaggit58@gmail.com
-
-⭐ If you found this project helpful, please give it a star!
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 📬 Connect With Me
+ 
+## 👤 Connect With Me
 
 <div align="center">
 
@@ -95,19 +84,16 @@ LinkedIn: - www.linkedin.com/in/anushree-saha-4bb3a4368
 <br/>
 
 <p>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  &nbsp;&nbsp;&nbsp;
+  <a href="www.linkedin.com/in/anushree-saha-4bb3a4368e" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:riyaggit58@gmail.com" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dc1a.gif" width="70"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="70"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/12Anushree" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294007-de441149-fce8-4b1b-9950-f5867a04bc6c.gif" width="70"/>
   </a>
 </p>
@@ -119,27 +105,21 @@ LinkedIn: - www.linkedin.com/in/anushree-saha-4bb3a4368
 <td>
 
 **📧 Email**  
-[your.email@example.com](mailto:your.email@example.com)
+[riyaggit58@gmail.com](mailto:riyaggit58@gmail.com)
 
 </td>
 <td>
 
 **💼 LinkedIn**  
-[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+[www.linkedin.com/in/anushree-saha-4bb3a4368](https://www.linkedin.com/in/anushree-saha-4bb3a4368)
 
 </td>
 </tr>
 <tr>
 <td>
-
-**🌐 Portfolio**  
-[yourportfolio.com](https://yourportfolio.com)
-
-</td>
-<td>
-
+  
 **🐙 GitHub**  
-[github.com/yourusername](https://github.com/yourusername)
+[github.com12Anushree](https://github.com/12Anushree)
 
 </td>
 </tr>
@@ -155,6 +135,6 @@ LinkedIn: - www.linkedin.com/in/anushree-saha-4bb3a4368
 
 ### ⭐ Star this repo if it helped you! ⭐
 
-</div>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thanks%20for%20Visiting!%20👋&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=55&desc=See%20you%20next%20time!&descSize=18&descAlignY=80"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,28,15&height=150&section=footer&text=Thanks%20for%20Visiting!%20👋&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=25&desc=See%20you%20next%20time!&descSize=18&descAlignY=80"/>
